@@ -1,0 +1,5 @@
+services:
+  bot:
+    image: dcping
+    container_name: dcping
+    restart: always
